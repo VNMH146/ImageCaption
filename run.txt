@@ -1,0 +1,12 @@
+For single
+1.python image_caption.py
+2.Enter single to input image
+Enter the image path:
+example: cat.jpg for single
+
+For batch
+1.Enter bacth to input
+2.Enter the folder path:
+example: test/cats for batch
+3.Enter the output CSV file name:         
+example: result.csv 

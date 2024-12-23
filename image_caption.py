@@ -167,7 +167,7 @@ class ImageCaptioningViTCLIP:
         print(f"Results saved to {output_file}")
 
 if __name__ == "__main__":
-    mode = input("Choose mode ('single' or 'batch'): ").strip().lower()
+    mode = input("Input single or batch): ").strip().lower()
     captioning_system = ImageCaptioningViTCLIP()
 
     if mode == 'single':
